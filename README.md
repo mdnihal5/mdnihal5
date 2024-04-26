@@ -29,7 +29,7 @@ But beyond my professional endeavors, I'm deeply committed to giving back to the
 <img align="right" width="100%" src="https://i.postimg.cc/HLwnc5L2/316487950-0e8c9521-a567-45d9-9a71-d2d7cf5c1d88.gif">
 
 <!--  EXPERTISE  -->
-### Online platfrom where i participate in contest
+### Online platfrom where i participate in programming contests
 <!--- DSA profile -->
 <a href="https://www.codechef.com/users/rgukt_b192210" target="blank" >
     <img align="center" src="https://img.icons8.com/?size=48&id=O4SEeX66BY8o&format=png"
