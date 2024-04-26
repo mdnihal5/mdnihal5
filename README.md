@@ -5,20 +5,20 @@
 
 <!--  PROFILE HEADER RHS IMAGE  -->
 <picture>
-  <img src="https://i.postimg.cc/TPMh3QT1/111081295.png" align="right" width="35%" alt="Image">
+  <img src="https://github.com/mdnihal5/assets/blob/main/profile.png" align="right" width="35%" alt="Image">
 </picture>
 
 <!--  PROFILE HEADER INTRO (LHS)  -->
 Hello World! 👋
 
-I'm a versatile **Software Developer** with a passion for creating innovative solutions for both mobile and web platforms.
+I'm a  **Mernstack Developer** with a passion for creating innovative solutions for both mobile and web platforms.
 
 💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
 
 🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
 
 <!--  EXCITED CHARACTERS  -->
-<img src="https://i.postimg.cc/9F0D8rxm/316635933-cff18550-c17d-43ff-a3c0-4cee7dc8de01.gif" width="75">&nbsp;
+<img src="https://github.com/mdnihal5/assets/blob/main/techstack.gif" width="200">&nbsp;
 
 </br>
 
@@ -32,31 +32,22 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 [![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
-[![React Native](https://img.shields.io/badge/-React_Native-61DAFB?logo=react&logoColor=black)](https://reactnative.dev/)
-[![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
-[![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo&logoColor=white)](https://expo.dev/)
-[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
 [![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
+<!---[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
+[![WebSocket](https://img.shields.io/badge/-WebSocket-4B32C3?logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)-->
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
-[![Android Studio](https://img.shields.io/badge/-Android%20Studio-3DDC84?logo=android%20studio&logoColor=white)](https://developer.android.com/studio)
-[![Xcode](https://img.shields.io/badge/-Xcode-147EFB?logo=xcode&logoColor=white)](https://developer.apple.com/xcode/)
-[![Jest](https://img.shields.io/badge/-Jest-C21325?logo=jest&logoColor=white)](https://jestjs.io/)
-[![WebSocket](https://img.shields.io/badge/-WebSocket-4B32C3?logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)
-[![Flipper](https://img.shields.io/badge/-Flipper-75AADB?logo=facebook&logoColor=white)](https://fbflipper.com/)
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
-[![Adobe XD](https://img.shields.io/badge/-Adobe%20XD-FF61F6?logo=adobe%20xd&logoColor=white)](https://www.adobe.com/products/xd.html)
 
 <!--  DIVIDER  -->
 <img align="right" width="100%" src="[https://postimg.cc/JyhMSsZD](https://i.postimg.cc/HLwnc5L2/316487950-0e8c9521-a567-45d9-9a71-d2d7cf5c1d88.gif)">
 
 </br>
-
- <p align="left"><img src="https://i.postimg.cc/HLwnc5L2/316487950-0e8c9521-a567-45d9-9a71-d2d7cf5c1d88.gif" alt="mdnihal5" width="100%" /> </p>
 
  <!--  DIVIDER  -->
 <img align="right" width="100%" src="https://i.postimg.cc/HLwnc5L2/316487950-0e8c9521-a567-45d9-9a71-d2d7cf5c1d88.gif">
@@ -64,7 +55,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 </br>
 
 <!--  HI PIKACHU  -->
-<img src="https://i.postimg.cc/MKLvhq4y/316517556-d377c4aa-e247-422c-8b0f-53145acd7705.gif" align="right" width="15%" alt="pikachu-hi">
+<img src="https://github.com/mdnihal5/assets/blob/main/hii_pikachu.gif" align="right" width="15%" alt="pikachu-hi">
 
 <!--  MY GITHUB STAT  -->
 <p>  <img src="https://github-readme-stats.vercel.app/api?username=mdnihal5&show_icons=true&count_private=true&custom_title=My%20Github%20Stat&layout=compact&theme=jolly&hide=issues&hide_border=true&hide_title=true,contribs" /> </p>
@@ -75,7 +66,7 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 </br>
 
 <!--  CAT  -->
-<img align="left" src="" width="22%" alt="pikachu-hi">
+<img align="left" src="https://github.com/mdnihal5/assets/blob/main/coder.gif" width="22%" alt="pikachu-hi">
 
 <!--  LANGUAGES USED  -->
 <p align="right"> <img style="align-item: center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdnihal5&custom_title=Languages%20I%20have%20used&layout=compact&theme=jolly&hide_border=true&hide_title=true" /> </p>
@@ -93,4 +84,4 @@ I'm a versatile **Software Developer** with a passion for creating innovative so
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdnihal5/)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdnihal5)
 
-#### 🚀 Let's connect and collaborate!   <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="35" height="35"/>
+#### 🚀 Let's connect and collaborate!   <img src="https://github.com/mdnihal5/assets/blob/main/dancing_parrot.gif" width="35" height="35"/>
