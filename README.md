@@ -11,12 +11,15 @@
 <!--  PROFILE HEADER INTRO (LHS)  -->
 Hello World! 👋
 
-I'm a  **Mernstack Developer** with a passion for creating innovative solutions for both mobile and web platforms.
+I'm a  **Mernstack Developer and a competitive programmer**.
+
+ welcome to my world where competitive programming meets MERN stack development. I thrive in the exhilarating challenges of platforms like LeetCode and Codeforces, where every problem is a puzzle waiting to be solved. But that's just the beginning.
+
+You see, I'm not just about competition; I'm all about innovation too. With the MERN stack – MongoDB, Express.js, React, and Node.js – I craft dynamic web applications that redefine user experiences and scalability.
 
 💻 With a strong foundation in JavaScript, I specialize in crafting seamless user experiences across various technologies.
 
-🌟 In addition to my professional work, I'm an active contributor to open-source projects, collaborating with the community to drive innovation and create solutions that benefit everyone.
-
+But beyond my professional endeavors, I'm deeply committed to giving back to the community. I'm an active contributor to open-source projects, collaborating with fellow developers to drive innovation and create solutions that benefit everyone.
 <!--  EXCITED CHARACTERS  -->
 <img src="https://github.com/mdnihal5/assets/blob/main/techstack.gif" width="200">&nbsp;
 
@@ -26,6 +29,23 @@ I'm a  **Mernstack Developer** with a passion for creating innovative solutions 
 <img align="right" width="100%" src="https://i.postimg.cc/HLwnc5L2/316487950-0e8c9521-a567-45d9-9a71-d2d7cf5c1d88.gif">
 
 <!--  EXPERTISE  -->
+### Online platfrom where i participate in contest
+<!--- DSA profile -->
+<a href="https://www.codechef.com/users/rgukt_b192210" target="blank" style="color:blue">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
+    alt="rgukt_b192210" height="30" width="40" />
+  </a>
+  <a href="https://codeforces.com/profile/md_nihal" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
+    alt="md_nihal" height="30" width="40" />
+  </a>
+  <a href="https://www.leetcode.com/mdnihal05" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
+    alt="mdnihal05" height="30" width="40" />
+  </a>
+  <!--  DIVIDER  -->
+<img align="right" width="100%" src="[https://postimg.cc/JyhMSsZD](https://i.postimg.cc/HLwnc5L2/316487950-0e8c9521-a567-45d9-9a71-d2d7cf5c1d88.gif)">
+
 ### My expertise encompasses:
 
 [![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5)
