@@ -42,6 +42,24 @@ I'm a  **Mernstack Developer** with a passion for creating innovative solutions 
 [![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white)](https://git-scm.com/)
 [![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black)](https://firebase.google.com/)
 [![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-007ACC?logo=visual-studio-code&logoColor=white)](https://code.visualstudio.com/)
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg"
+alt="linux" width="40" height="40" />
+ <a href="https://appwrite.io" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg"
+    alt="appwrite" width="40" height="40" />
+  </a>
+  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg"
+    alt="cplusplus" width="40" height="40" />
+  </a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
+    alt="tailwind" width="40" height="40" />
+  </a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
+    alt="typescript" width="40" height="40" />
+  </a>
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=white)](https://www.figma.com/)
 
 <!--  DIVIDER  -->
@@ -76,12 +94,11 @@ I'm a  **Mernstack Developer** with a passion for creating innovative solutions 
 
 ### _**You can find me on:**_
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/priyanka-s-b79401142/)
-[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://sharmapriyanka84510.medium.com/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mdnihal05/)
+<!---[![Medium](https://img.shields.io/badge/-Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://sharmapriyanka84510.medium.com/)
 [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sharmapriyanka84510@gmail.com)
 [![Polywork](https://img.shields.io/badge/-Polywork-4A90E2?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/priyanka_s)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mdnihal5)
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdnihal5/)
+[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdnihal5/)-->
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdnihal5)
-
 #### 🚀 Let's connect and collaborate!   <img src="https://github.com/mdnihal5/assets/blob/main/dancing_parrot.gif" width="35" height="35"/>
