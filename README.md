@@ -34,11 +34,11 @@ But beyond my professional endeavors, I'm deeply committed to giving back to the
 <a href="https://www.codechef.com/users/rgukt_b192210" target="blank" style="color:blue">
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg"
     alt="rgukt_b192210" height="30" width="40" />
-  </a>
+  </a> &nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://codeforces.com/profile/md_nihal" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg"
     alt="md_nihal" height="30" width="40" />
-  </a>
+  </a>&nbsp;&nbsp;&nbsp;&nbsp;
   <a href="https://www.leetcode.com/mdnihal05" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
     alt="mdnihal05" height="30" width="40" />
@@ -120,5 +120,5 @@ alt="linux" width="40" height="40" />
 [![Polywork](https://img.shields.io/badge/-Polywork-4A90E2?style=for-the-badge&logo=polywork&logoColor=white)](https://www.polywork.com/priyanka_s)
 [![Dev.to](https://img.shields.io/badge/-Dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/mdnihal5)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/mdnihal5/)-->
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdnihal5)
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/mdnihal05)
 #### 🚀 Let's connect and collaborate!   <img src="https://github.com/mdnihal5/assets/blob/main/dancing_parrot.gif" width="35" height="35"/>
