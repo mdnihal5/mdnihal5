@@ -11,7 +11,7 @@
 <!--  PROFILE HEADER INTRO (LHS)  -->
 Hello World! 👋
 
-I'm a  **Mernstack Developer and a competitive programmer**.
+I'm a  **MERNstack Developer and a competitive programmer**.
 
  welcome to my world where competitive programming meets MERN stack development. I thrive in the exhilarating challenges of platforms like LeetCode and Codeforces, where every problem is a puzzle waiting to be solved. But that's just the beginning.
 
