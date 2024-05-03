@@ -53,9 +53,9 @@ But beyond my professional endeavors, I'm deeply committed to giving back to the
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black)](https://reactjs.org/)
 [![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)](https://nodejs.org/)
-[![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
+<!---[![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)](https://expressjs.com/)
 [![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)](https://www.mongodb.com/)
-<!---[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
+[![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white)](https://nextjs.org/)
 [![Redux](https://img.shields.io/badge/-Redux-764ABC?logo=redux&logoColor=white)](https://redux.js.org/)
 [![AWS](https://img.shields.io/badge/-AWS-232F3E?logo=amazon-aws&logoColor=white)](https://aws.amazon.com/)
 [![WebSocket](https://img.shields.io/badge/-WebSocket-4B32C3?logo=websocket&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/API/WebSockets_API)-->
