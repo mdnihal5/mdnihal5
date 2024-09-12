@@ -31,7 +31,7 @@ But beyond my professional endeavors, I'm deeply committed to giving back to the
 <!--  EXPERTISE  -->
 ### Online platfrom where i participate in programming contests
 <!--- DSA profile -->
-<a href="https://www.codechef.com/users/rgukt_b192210" target="blank" >
+<a href="https://www.codechef.com/users/md_nihal" target="blank" >
     <img align="center" src="https://img.icons8.com/?size=48&id=O4SEeX66BY8o&format=png"
     alt="rgukt_b192210" height="30" width="40" />
   </a> &nbsp;&nbsp;&nbsp;&nbsp;
