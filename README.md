@@ -6,8 +6,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and competitiv
 
 ## 🚀 My Skills
 
-- **Languages**: C++, JavaScript,SQL
-- **Web Development**: React, Next.js,Redux, Typescript, Express, Node.js, Tailwind CSS, HTML, CSS
+- **Languages**: C++, JavaScript, Typescript, SQL
+- **Web Development**: React, Next.js,Redux, Express, Node.js, Tailwind CSS, HTML, CSS
 - **Backend**: REST APIs, WebSockets, Databases (MongoDB, MySQL)
 - **Tools**: Git, Docker, Vim, Neovim
 - **Competitive Programming**: Codeforces, LeetCode, CodeChef
