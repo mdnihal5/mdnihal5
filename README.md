@@ -32,7 +32,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and competitiv
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=devsargam&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdnihal5&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
 
 ---
 
