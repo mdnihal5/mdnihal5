@@ -29,7 +29,8 @@ Welcome to my GitHub profile! I'm a passionate software developer and competitiv
 - **[LeetCode](https://leetcode.com/u/mdnihal05/)**
 
 ---
-
+## Codeforces Stats
+[![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=md_nihal&theme=github_dark&disable_animations=false&show_icons=true&force_username=true)](https://codeforces.com/profile/md_nihal)
 ## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mdnihal5&show_icons=true&show=reviews,prs_merged,prs_merged_percentage&theme=dark)
